@@ -5,6 +5,8 @@ end
 def oxford_comma(array)
   array.join(" and ")
 end
+
+
 =begin
 def oxford_comma(array)
   count = 0
