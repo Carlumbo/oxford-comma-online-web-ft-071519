@@ -14,6 +14,5 @@ def oxford_comma(array)
   end
   else
     array.join(" and ")
-    count += 1
   end 
 end 
