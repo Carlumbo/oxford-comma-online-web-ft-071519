@@ -7,7 +7,7 @@ def oxford_comma(array)
 end
 
 
-=begin
+
 def oxford_comma(array)
   count = 0
   array.join
