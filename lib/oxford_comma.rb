@@ -17,7 +17,7 @@ def oxford_comma(array)
   elsif count < array.length do 
     array.join(", ")
     count += 1
-  end 
+ # end 
   else
     array.join(" and ")
   end 
