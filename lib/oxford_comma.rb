@@ -5,3 +5,11 @@ end
 def oxford_comma(array)
   array.join(" and ")
 end
+def oxford_comma(array)
+  count = 0
+  if count < array.length do 
+    array.join(", ")
+  else
+    array.join(" and ")
+  end 
+end 
