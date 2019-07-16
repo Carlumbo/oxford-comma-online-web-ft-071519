@@ -8,6 +8,7 @@ end
 
 def oxford_comma(array)
   count = 0
+  array.join
   if count < array.length do 
     array.join(", ")
      count += 1
